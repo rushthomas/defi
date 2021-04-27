@@ -5,6 +5,8 @@
 **Derivatives**:\
 	An asset or security that _derives_ its value from another asset. 
 
+**Farming**:\
+	
 
 **Margin**:\
 	Funds you can borrow, above and beyond the capital you actually own or have in a particular account. 
