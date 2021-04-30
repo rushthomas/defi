@@ -8,7 +8,9 @@
 
 
 **Derivatives**:\
-	An asset or security that _derives_ its value from another asset. 
+	An asset or security that _derives_ its value from another asset. Examples include:
+	1. stETH - which is wrapped staked ETH, which allows users to wrap their assets as a 1:1 peg with the underlying asset (the underlying asset being the staked ETH of course. 
+	2. Any 'Synthetix' token such as sUSD, iCOMP or others. 
 
 **Farming**:\
 	
